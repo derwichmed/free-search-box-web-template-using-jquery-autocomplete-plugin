@@ -1,0 +1,2 @@
+the use of a search box in your website offers your customers good experience in selecting information on your website.
+In this example, you find an implementation of the jquery complete plugin on car search. You can download it github and modify it to your needs
